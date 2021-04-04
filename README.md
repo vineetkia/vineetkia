@@ -85,7 +85,7 @@
 ![Vineet Kumar Github Stats](https://github-readme-stats.vercel.app/api?username=vineetkia&show_icons=true)
 ## :scroll: Certifications
 
-- [Microsoft Student Partner - Beta](https://studentambassadors.microsoft.com/certificate/8995e659-7865-4812-8533-7c5d7b2fa2f8)
+- [Microsoft Student Ambassador - Beta Level](https://studentambassadors.microsoft.com/certificate/8995e659-7865-4812-8533-7c5d7b2fa2f8)
 - [Parallelism on Intel Architecture](https://www.coursera.org/account/accomplishments/verify/W6L5AWMYBXJB)
 - [Google Cloud Core Infrastructure](https://www.coursera.org/account/accomplishments/records/3M6GK49TTDUR) 
 - [Cybersecurity and Its Ten Domains](https://www.coursera.org/account/accomplishments/verify/PHQKZPG9GRDN) 
