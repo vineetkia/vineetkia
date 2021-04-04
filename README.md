@@ -22,11 +22,11 @@
  <tr>
 <td align="center" width="20%">
 <span><b><center>Linux System Administration</center></b></span> 
-<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png"> 
+<img height=65px src="https://raw.githubusercontent.com/vineetkia/vineetkia/main/LOGO/Linux.png"> 
 </td>
 <td align="center" width="20%">
 <span><b><center>AWS</center></b></span> 
-<img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQV9AyEyvrlIJLOfbxFLfOr03Qy5gRL0txWMQ&usqp=CAU"> 
+<img height=60px src="https://raw.githubusercontent.com/vineetkia/vineetkia/main/LOGO/AWS.png"> 
 </td>
 <td align="center" width="20%">
 <span><b><center>Apache</center></b></span> 
