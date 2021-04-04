@@ -97,4 +97,4 @@
 
 If you like the Repository give it a :star: and also follow me on GitHub, And lets together make this world a better place<br>
 
-Join MY Discord Server Here: [INSAS CLUB](https://discord.gg/dj8YDq4dQd)
+Contact Mail: [vineetkia@gmail.com](mailto:vineetkia@gmail.com)
