@@ -1,7 +1,7 @@
 <h1 align="center"> ❄️ Welcome </h1>
 
 
-* I am [Vineet Kumar](https://www.linkedin.com/in/-vineet/). A third-year student of Vellore Institute Of Technology in Computer Science and Engineering.
+* I am [Vineet Kumar](https://www.linkedin.com/in/-vineet/). A 4th year student of Vellore Institute Of Technology in Computer Science and Engineering.
 
 * I am a Microsoft Student Partner and Technical Head at Technology And Gaming CLUB - VIT Vellore.
 
