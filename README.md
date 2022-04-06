@@ -3,9 +3,9 @@
 
 * I am [Vineet Kumar](https://www.linkedin.com/in/-vineet/). A fourth year student of Vellore Institute Of Technology in Computer Science and Engineering.
 
-* I am a Microsoft Student Partner and Technical Head at Technology And Gaming CLUB - VIT Vellore.
+* I was a Microsoft Student Ambassador and Technical Head at Technology And Gaming CLUB - VIT Vellore.
 
-* I have experience in the field of Linux Administration, Cyber Security, Kernel Optimization, DevSecOps, Cloud Services and Pentesting.
+* I have experience in the field of Software Development, Linux Administration, Cyber Security, Kernel Optimization, DevSecOps, Cloud Services and Pentesting.
 
 * I would love to contribute to Open-Source Community.
 
