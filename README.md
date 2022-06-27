@@ -3,11 +3,11 @@
 
 * I am [Vineet Kumar](https://www.linkedin.com/in/-vineet/). A Software Development Engineer working for <b>Openlink Financial NYC</b>.
 
-* I was a Microsoft Student Ambassador and Technical Head at <b>Technology And Gaming</b> CLUB - VIT Vellore.
+* I was a Microsoft Student Ambassador and Technical Head at <b>Technology And Gaming CLUB</b> - VIT Vellore.
 
-* I have experience in the field of Software Development, Linux Administration, Cyber Security, Kernel Optimization, DevSecOps, Cloud Services and Pentesting.
+* I have experience in the field of Core Software Development, Linux Administration, Cyber Security, Linux Kernel Optimization, DevSecOps, Cloud Services and Pentesting.
 
-* I would love to contribute to Open-Source Community.
+* I would love to contribute to Open-Source Community, Also likes to work on automated trading systems.
 
 * Connect with me on LinkeDin [LinkedIn Profile](https://www.linkedin.com/in/-vineet/)
 
