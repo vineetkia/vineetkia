@@ -1,7 +1,7 @@
 <h1 align="center"> ❄️ Welcome </h1>
 
 
-* I am [Vineet Kumar](https://www.linkedin.com/in/-vineet/). A Software Development Engineer working for <b>Openlink Financial - NYC</b>.
+* Hi i am [Vineet Kumar](https://www.linkedin.com/in/-vineet/). A Software Development Engineer working for <b>Openlink Financial - NYC</b>.
 
 * I was a Microsoft Student Ambassador and Technical Head at <b>Technology And Gaming CLUB - VIT Vellore</b>.
 
