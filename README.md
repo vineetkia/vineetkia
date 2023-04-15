@@ -7,9 +7,9 @@
 
 * I have experience in the field of Core Software Development, Linux Administration, Cyber Security, Kernel Development, Cloud Services & Reverse Engineering.
 
-* I would love to contribute to Open-Source Community, Also likes to work on automated trading systems.
+* I would love to contribute to Open-Source Community and work in the field of automated HFT systems.
 
-* Connect with me on LinkeDin [LinkedIn Profile](https://www.linkedin.com/in/-vineet/)
+* Connect with me on linkedin [LinkedIn Profile](https://www.linkedin.com/in/-vineet/)
 
 ### Software And Services Worked On :computer:
 
