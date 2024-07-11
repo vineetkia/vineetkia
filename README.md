@@ -49,7 +49,7 @@
   </td>
   <td align="center" width="20%">
     <span><b><center>Typescript</center></b></span> 
-    <img height=65px src="https://raw.githubusercontent.com/vineetkia/vineetkia/main/LOGO/ASM.svg"> 
+    <img height=65px src="https://cdn.iconscout.com/icon/free/png-512/free-typescript-3521774-2945272.png"> 
   </td>
   <td align="center" width="20%">
     <span><b><center>Python</center></b></span> 
