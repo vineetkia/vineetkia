@@ -36,20 +36,16 @@
 </tr>
 <tr>
   <td align="center" width="20%">
-    <span><b><center>Core Java</center></b></span> 
     <img height=75px src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png"> 
   </td>
   <td align="center" width="20%">
-    <span><b><center>Visual Studio (C++ & C#)</center></b></span> 
     <img height=55px src="https://raw.githubusercontent.com/vineetkia/vineetkia/main/LOGO/Visual%20Studio.png"> 
   </td>
   <td align="center" width="20%">
-    <span><b><center>Typescript</center></b></span> 
     <img height=65px src="https://cdn.iconscout.com/icon/free/png-512/free-typescript-3521774-2945272.png"> 
   </td>
   <td align="center" width="20%">
-    <span><b><center>Python</center></b></span> 
-    <img height=65px src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/972px-Python_logo_and_wordmark.svg.png"> 
+    <img height=55px src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/972px-Python_logo_and_wordmark.svg.png"> 
   </td>
 </tr>
 
