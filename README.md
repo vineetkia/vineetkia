@@ -64,11 +64,11 @@
   </td>
   <td align="center" width="20%">
     <span><b><center>MongoDB</center></b></span> 
-    <img height=70px src="https://raw.githubusercontent.com/vineetkia/vineetkia/main/LOGO/SQL.png"> 
+    <img height=70px src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg"> 
   </td>
   <td align="center" width="20%">
     <span><b><center>React</center></b></span> 
-    <img height=65px src="https://raw.githubusercontent.com/vineetkia/vineetkia/main/LOGO/BurpSuite.png"> 
+    <img height=65px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png"> 
   </td>
   <td align="center" width="20%">
     <span><b><center>NextJS</center></b></span> 
