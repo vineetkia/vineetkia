@@ -83,7 +83,6 @@
 </tbody>
 </table>
  
-![Vineet Kumar Github Stats](https://github-readme-stats.vercel.app/api?username=vineetkia&theme=gotham&show_icons=true)
 ## :scroll: Certifications
 
 - [Microsoft Student Ambassador - Beta Level](https://studentambassadors.microsoft.com/certificate/8995e659-7865-4812-8533-7c5d7b2fa2f8)
