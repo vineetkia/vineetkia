@@ -41,7 +41,7 @@
 <tr>
   <td align="center" width="20%">
     <span><b><center>Core Java</center></b></span> 
-    <img height=55px src="https://raw.githubusercontent.com/vineetkia/vineetkia/main/LOGO/java.png"> 
+    <img height=55px src="https://raw.githubusercontent.com/vineetkia/vineetkia/main/LOGO/java.png](https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png"> 
   </td>
   <td align="center" width="20%">
     <span><b><center>Visual Studio (C++ & C#)</center></b></span> 
