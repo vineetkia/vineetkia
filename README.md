@@ -47,38 +47,26 @@
     <span><b><center>Core Java</center></b></span> 
     <img height=55px src="https://raw.githubusercontent.com/vineetkia/vineetkia/main/LOGO/java.png"> 
   </td>
-
-
   <td align="center" width="20%">
     <span><b><center>Visual Studio 2022</center></b></span> 
     <img height=65px src="https://raw.githubusercontent.com/vineetkia/vineetkia/main/LOGO/ASM.svg"> 
+  </td>
+</tr>
+
+<tr>
+  <td align="center" width="20%">
+    <span><b><center>SQL</center></b></span> 
+    <img height=70px src="https://raw.githubusercontent.com/vineetkia/vineetkia/main/LOGO/SQL.png"> 
+  </td>
+  <td align="center" width="20%">
+    <span><b><center>BurpSuite</center></b></span> 
+    <img height=65px src="https://raw.githubusercontent.com/vineetkia/vineetkia/main/LOGO/BurpSuite.png"> 
   </td>
   <td align="center" width="20%">
     <span><b><center>Metasploit</center></b></span> 
     <img height=65px src="https://raw.githubusercontent.com/vineetkia/vineetkia/main/LOGO/Metasploit.png"> 
   </td>
-
-
 </tr>
-
-
-<tr>
-
-<td align="center" width="20%">
- <span><b><center>SQL</center></b></span> 
-<img height=70px src="https://raw.githubusercontent.com/vineetkia/vineetkia/main/LOGO/SQL.png"> 
-</td>
-<td align="center" width="20%">
-<span><b><center>PHP</center></b></span> 
-<img height=55px src="https://raw.githubusercontent.com/vineetkia/vineetkia/main/LOGO/PHP.png"> 
-</td>
-<td align="center" width="20%">
-<span><b><center>BurpSuite</center></b></span> 
-<img height=65px src="https://raw.githubusercontent.com/vineetkia/vineetkia/main/LOGO/BurpSuite.png"> 
-</td>
-</tr>
-
-
 </tbody>
 </table>
  
