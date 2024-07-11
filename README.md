@@ -40,15 +40,19 @@
 </tr>
 <tr>
   <td align="center" width="20%">
-    <span><b><center>Visual Studio (C++ & C#)</center></b></span> 
-    <img height=55px src="https://raw.githubusercontent.com/vineetkia/vineetkia/main/LOGO/Visual%20Studio.png"> 
-  </td>
-  <td align="center" width="20%">
     <span><b><center>Core Java</center></b></span> 
     <img height=55px src="https://raw.githubusercontent.com/vineetkia/vineetkia/main/LOGO/java.png"> 
   </td>
   <td align="center" width="20%">
-    <span><b><center>Visual Studio 2022</center></b></span> 
+    <span><b><center>Visual Studio (C++ & C#)</center></b></span> 
+    <img height=55px src="https://raw.githubusercontent.com/vineetkia/vineetkia/main/LOGO/Visual%20Studio.png"> 
+  </td>
+  <td align="center" width="20%">
+    <span><b><center>Typescript</center></b></span> 
+    <img height=65px src="https://raw.githubusercontent.com/vineetkia/vineetkia/main/LOGO/ASM.svg"> 
+  </td>
+  <td align="center" width="20%">
+    <span><b><center>Python</center></b></span> 
     <img height=65px src="https://raw.githubusercontent.com/vineetkia/vineetkia/main/LOGO/ASM.svg"> 
   </td>
 </tr>
@@ -59,11 +63,15 @@
     <img height=70px src="https://raw.githubusercontent.com/vineetkia/vineetkia/main/LOGO/SQL.png"> 
   </td>
   <td align="center" width="20%">
-    <span><b><center>BurpSuite</center></b></span> 
+    <span><b><center>MongoDB</center></b></span> 
+    <img height=70px src="https://raw.githubusercontent.com/vineetkia/vineetkia/main/LOGO/SQL.png"> 
+  </td>
+  <td align="center" width="20%">
+    <span><b><center>React</center></b></span> 
     <img height=65px src="https://raw.githubusercontent.com/vineetkia/vineetkia/main/LOGO/BurpSuite.png"> 
   </td>
   <td align="center" width="20%">
-    <span><b><center>Metasploit</center></b></span> 
+    <span><b><center>NextJS</center></b></span> 
     <img height=65px src="https://raw.githubusercontent.com/vineetkia/vineetkia/main/LOGO/Metasploit.png"> 
   </td>
 </tr>
