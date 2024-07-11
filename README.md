@@ -18,37 +18,35 @@
 <br>
 <table>
 <tbody>
- 
- 
- <tr>
-<td align="center" width="20%">
-<span><b><center>Linux Administration</center></b></span> 
-<img height=65px src="https://raw.githubusercontent.com/vineetkia/vineetkia/main/LOGO/Linux.png"> 
-</td>
-<td align="center" width="20%">
-<span><b><center>AWS</center></b></span> 
-<img height=60px src="https://raw.githubusercontent.com/vineetkia/vineetkia/main/LOGO/AWS.png"> 
-</td>
-<td align="center" width="20%">
-<span><b><center>Apache</center></b></span> 
-<img height=65px src="https://raw.githubusercontent.com/vineetkia/vineetkia/main/LOGO/Apache.png"> 
-</td>
- <td align="center" width="20%">
-<span><b><center>IoT</center></b></span> 
-<img height=65px src="https://raw.githubusercontent.com/vineetkia/vineetkia/main/LOGO/RPI.png"> 
-</td>
+<tr>
+
+  <td align="center" width="20%">
+    <span><b><center>Linux Administration</center></b></span> 
+    <img height=65px src="https://raw.githubusercontent.com/vineetkia/vineetkia/main/LOGO/Linux.png"> 
+  </td>
+  <td align="center" width="20%">
+    <span><b><center>AWS</center></b></span> 
+    <img height=60px src="https://raw.githubusercontent.com/vineetkia/vineetkia/main/LOGO/AWS.png"> 
+  </td>
+  <td align="center" width="20%">
+    <span><b><center>Azure</center></b></span> 
+    <img height=69px src="https://raw.githubusercontent.com/vineetkia/vineetkia/main/LOGO/Azure.png"> 
+  </td>
+  <td align="center" width="20%">
+    <span><b><center>Git</center></b></span> 
+    <img height=60px src="https://raw.githubusercontent.com/vineetkia/vineetkia/main/LOGO/Git.png"> 
+  </td>
+
+
+
+  
+
 </tr>
 
 
 <tr>
-<td align="center" width="20%">
-<span><b><center>C++ & C#</center></b></span> 
-<img height=55px src="https://raw.githubusercontent.com/vineetkia/vineetkia/main/LOGO/Visual%20Studio.png"> 
-</td>
-<td align="center" width="20%">
-<span><b><center>Azure</center></b></span> 
-<img height=69px src="https://raw.githubusercontent.com/vineetkia/vineetkia/main/LOGO/Azure.png"> 
-</td>
+
+
 <td align="center" width="20%">
 <span><b><center>x86 x64 Arch</center></b></span> 
 <img height=65px src="https://raw.githubusercontent.com/vineetkia/vineetkia/main/LOGO/ASM.svg"> 
@@ -61,10 +59,7 @@
 
 
 <tr>
-<td align="center" width="20%">
-<span><b><center>Git</center></b></span> 
-<img height=60px src="https://raw.githubusercontent.com/vineetkia/vineetkia/main/LOGO/Git.png"> 
-</td>
+
 <td align="center" width="20%">
  <span><b><center>SQL</center></b></span> 
 <img height=70px src="https://raw.githubusercontent.com/vineetkia/vineetkia/main/LOGO/SQL.png"> 
