@@ -21,19 +21,15 @@
 <tr>
 
   <td align="center" width="20%">
-    <span><b><center>Linux Administration</center></b></span> 
     <img height=65px src="https://raw.githubusercontent.com/vineetkia/vineetkia/main/LOGO/Linux.png"> 
   </td>
   <td align="center" width="20%">
-    <span><b><center>AWS</center></b></span> 
     <img height=60px src="https://raw.githubusercontent.com/vineetkia/vineetkia/main/LOGO/AWS.png"> 
   </td>
   <td align="center" width="20%">
-    <span><b><center>Azure</center></b></span> 
     <img height=69px src="https://raw.githubusercontent.com/vineetkia/vineetkia/main/LOGO/Azure.png"> 
   </td>
   <td align="center" width="20%">
-    <span><b><center>Git</center></b></span> 
     <img height=60px src="https://raw.githubusercontent.com/vineetkia/vineetkia/main/LOGO/Git.png"> 
   </td>
 
