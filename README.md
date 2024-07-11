@@ -5,8 +5,10 @@
 
 * I was a <b>Microsoft Student Ambassador</b> and <b>Technical Head</b> at Technology And Gaming Club at VIT Vellore.
 
-* I have experience in the field of Core Software Development, Linux Administration, Cyber Security, C Kernel Development & Reverse Engineering.
-
+* I have 2+ years experience in the field of Core Software Development using Core Java, C#, Typescript & Python.
+  
+* I am very much into Linux system administration, Developer operations, Reverse engineering and financial technology.
+  
 * I would love to contribute to Open-Source Community and work in the field of automated HFT systems.
 
 * Connect with me on linkedin [LinkedIn Profile](https://www.linkedin.com/in/-vineet/)
