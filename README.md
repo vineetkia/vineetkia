@@ -37,24 +37,28 @@
     <img height=60px src="https://raw.githubusercontent.com/vineetkia/vineetkia/main/LOGO/Git.png"> 
   </td>
 
-
-
-  
-
 </tr>
-
-
 <tr>
+  <td align="center" width="20%">
+    <span><b><center>Visual Studio (C++ & C#)</center></b></span> 
+    <img height=55px src="https://raw.githubusercontent.com/vineetkia/vineetkia/main/LOGO/Visual%20Studio.png"> 
+  </td>
+  <td align="center" width="20%">
+    <span><b><center>Core Java</center></b></span> 
+    <img height=55px src="https://raw.githubusercontent.com/vineetkia/vineetkia/main/LOGO/java.png"> 
+  </td>
 
 
-<td align="center" width="20%">
-<span><b><center>x86 x64 Arch</center></b></span> 
-<img height=65px src="https://raw.githubusercontent.com/vineetkia/vineetkia/main/LOGO/ASM.svg"> 
-</td>
-<td align="center" width="20%">
- <span><b><center>Metasploit</center></b></span> 
-<img height=65px src="https://raw.githubusercontent.com/vineetkia/vineetkia/main/LOGO/Metasploit.png"> 
-</td>
+  <td align="center" width="20%">
+    <span><b><center>Visual Studio 2022</center></b></span> 
+    <img height=65px src="https://raw.githubusercontent.com/vineetkia/vineetkia/main/LOGO/ASM.svg"> 
+  </td>
+  <td align="center" width="20%">
+    <span><b><center>Metasploit</center></b></span> 
+    <img height=65px src="https://raw.githubusercontent.com/vineetkia/vineetkia/main/LOGO/Metasploit.png"> 
+  </td>
+
+
 </tr>
 
 
