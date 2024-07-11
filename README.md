@@ -40,7 +40,7 @@
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>Objective C & C++</center></b></span> 
+<span><b><center>C++ & C#</center></b></span> 
 <img height=55px src="https://raw.githubusercontent.com/vineetkia/vineetkia/main/LOGO/Visual%20Studio.png"> 
 </td>
 <td align="center" width="20%">
