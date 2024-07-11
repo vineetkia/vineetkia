@@ -53,7 +53,7 @@
   </td>
   <td align="center" width="20%">
     <span><b><center>Python</center></b></span> 
-    <img height=65px src="https://raw.githubusercontent.com/vineetkia/vineetkia/main/LOGO/ASM.svg"> 
+    <img height=65px src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/972px-Python_logo_and_wordmark.svg.png"> 
   </td>
 </tr>
 
