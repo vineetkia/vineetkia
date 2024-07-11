@@ -20,7 +20,7 @@
  
  <tr>
 <td align="center" width="20%">
-<span><b><center>Linux System Administration</center></b></span> 
+<span><b><center>Linux Administration</center></b></span> 
 <img height=65px src="https://raw.githubusercontent.com/vineetkia/vineetkia/main/LOGO/Linux.png"> 
 </td>
 <td align="center" width="20%">
