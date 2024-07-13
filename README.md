@@ -1,17 +1,26 @@
 <h1 align="center"> ❄️ Welcome </h1>
 
 
-* I am [Vineet Kumar](https://www.linkedin.com/in/-vineet/). A Software Development Engineer working for NYC based fintech company <b>Openlink Financial - NYC</b>.
+# 👋 Hi there! I'm Vineet Kumar - Your Next SDE Superstar! 🚀
 
-* I was a <b>Microsoft Student Ambassador</b> and <b>Technical Head</b> at Technology And Gaming Club at VIT Vellore.
+* 💼 I'm a Software Development Engineer at **Openlink Financial - NYC**, a cutting-edge fintech company in the heart of New York City.
+* 🏆 Former **Microsoft Student Ambassador** and **Technical Head** at the Technology And Gaming Club, VIT Vellore.
+* 💻 2+ years of battle-tested experience in Core Software Development, wielding:
+  - ☕ Java
+  - 🔷 C#
+  - 🟦 TypeScript
+  - 🐍 Python
 
-* I have 2+ years experience in the field of Core Software Development using Core Java, C#, Typescript & Python.
-  
-* I am very much into Linux system administration, Developer operations, Reverse engineering and financial technology.
-  
-* I would love to contribute to Open-Source Community and work in the field of automated HFT systems.
+* 🐧 Linux system administration enthusiast
+* 🔧 DevOps aficionado
+* 🕵️‍♂️ Reverse engineering explorer
+* 💰 Fintech innovator
 
-* Connect with me on linkedin [LinkedIn Profile](https://www.linkedin.com/in/-vineet/)
+* 🌟 Passionate about contributing to the Open-Source Community
+* 📈 Aspiring to revolutionize automated HFT systems
+
+🤝 Let's connect and create something amazing together!
+[Check out my LinkedIn](https://www.linkedin.com/in/-vineet/)
 
 ### Software And Services Worked On :computer:
 
