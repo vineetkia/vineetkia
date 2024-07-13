@@ -60,7 +60,7 @@
     <img height=65px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png"> 
   </td>
   <td align="center" width="20%">
-    <img height=65px src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg"> 
+    <img height=65px src="https://raw.githubusercontent.com/vineetkia/vineetkia/main/LOGO/nextjs.png"> 
   </td>
 </tr>
 </tbody>
