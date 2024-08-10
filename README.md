@@ -8,8 +8,8 @@
   - 🟦 TypeScript
   - 🐍 Python
 
-* 🐧 Partime linux SysAdmin & DevOps enthusiast
-* 🕵️‍♂️ Reverse engineering explorer
+* 🐧 Partime linux SysAdmin & DevOps explorer
+* 🕵️‍♂️ Reverse engineering enthusiast
 * 💰 Fintech innovator
 * 🌟 Passionate about contributing to the Open-Source Community
 * 📈 Aspiring to revolutionize automated HFT systems
