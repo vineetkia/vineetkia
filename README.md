@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Vineet Kumar - Your Next SDE Superstar! 🚀
+# 👋 Hi there! I'm Vineet
 
 * 💼 I'm a Software Development Engineer at **Openlink Financial**, a cutting-edge fintech company in the heart of New York City.
 * 🏆 Former **Microsoft Student Ambassador** and **Technical Head** at the Technology And Gaming Club, VIT Vellore.
