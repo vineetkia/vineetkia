@@ -2,22 +2,22 @@
 
 * 💼 I'm a Software Development Engineer at **Openlink Financial**, a cutting-edge fintech company in the heart of New York City.
 * 🏆 Former **Microsoft Student Ambassador** and **Technical Head** at the Technology And Gaming Club, VIT Vellore.
-* 💻 3+ years of battle-tested experience in Core Software Development, wielding:
+* 💻 4+ years of battle-tested experience in Core Software Development, wielding:
+  - 💠 C++
   - ☕ Core Java
   - 🔷 C#
   - 🟦 TypeScript
   - 🐍 Python
 
-* 🐧 Partime linux SysAdmin & DevOps explorer
+* 🐧 Linux SysAdmin & DevOps Explorer
 * 🕵️‍♂️ Reverse engineering enthusiast
-* 💰 Fintech innovator
-* 🌟 Passionate about contributing to the Open-Source Community
-* 📈 Aspiring to revolutionize automated HFT systems
+* 📈 Fintech innovator and aspiring to revolutionize automated HFT systems
+* 🌟 Passionate about contributing to new ideas, connect with me on LinkedIn
 
 🤝 Let's connect and create something amazing together!
 [Check out my LinkedIn](https://www.linkedin.com/in/-vineet/)
 
-### Software And Services Worked On :computer:
+### Software and Services Worked On :computer:
 
 <br>
 <table>
@@ -82,6 +82,6 @@
 ### :tv: Webinars
 - [Introduction To Azure Cloud And Virtual Machines](https://youtu.be/RHS85A63KIE)
 
-If you like the Repository give it a :star: and also follow me on GitHub, And lets together make this world a better place<br>
+If you like the Repository, give it a :star: and also follow me on GitHub, and let's together make this world a better place.<br>
 
 Contact Mail: [vineetkia@gmail.com](mailto:vineetkia@gmail.com)
