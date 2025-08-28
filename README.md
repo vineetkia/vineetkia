@@ -17,59 +17,6 @@
 
 🤝 Let's connect and create something amazing together!
 [Check out my LinkedIn](https://www.linkedin.com/in/-vineet/)
-
-### Software and Services Worked On :computer:
-
-<br>
-<table>
-<tbody>
-<tr>
-
-  <td align="center" width="20%">
-    <img height=65px src="https://raw.githubusercontent.com/vineetkia/vineetkia/main/LOGO/Linux.png"> 
-  </td>
-  <td align="center" width="20%">
-    <img height=60px src="https://raw.githubusercontent.com/vineetkia/vineetkia/main/LOGO/AWS.png"> 
-  </td>
-  <td align="center" width="20%">
-    <img height=69px src="https://raw.githubusercontent.com/vineetkia/vineetkia/main/LOGO/Azure.png"> 
-  </td>
-  <td align="center" width="20%">
-    <img height=60px src="https://raw.githubusercontent.com/vineetkia/vineetkia/main/LOGO/Git.png"> 
-  </td>
-
-</tr>
-<tr>
-  <td align="center" width="20%">
-    <img height=75px src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png"> 
-  </td>
-  <td align="center" width="20%">
-    <img height=55px src="https://raw.githubusercontent.com/vineetkia/vineetkia/main/LOGO/Visual%20Studio.png"> 
-  </td>
-  <td align="center" width="20%">
-    <img height=65px src="https://cdn.iconscout.com/icon/free/png-512/free-typescript-3521774-2945272.png"> 
-  </td>
-  <td align="center" width="20%">
-    <img height=55px src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/972px-Python_logo_and_wordmark.svg.png"> 
-  </td>
-</tr>
-
-<tr>
-  <td align="center" width="20%">
-    <img height=70px src="https://raw.githubusercontent.com/vineetkia/vineetkia/main/LOGO/SQL.png"> 
-  </td>
-  <td align="center" width="20%">
-    <img height=70px src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg"> 
-  </td>
-  <td align="center" width="20%">
-    <img height=65px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png"> 
-  </td>
-  <td align="center" width="20%">
-    <img height=65px src="https://raw.githubusercontent.com/vineetkia/vineetkia/main/LOGO/nextjs.png"> 
-  </td>
-</tr>
-</tbody>
-</table>
  
 ## :scroll: Certifications
 
