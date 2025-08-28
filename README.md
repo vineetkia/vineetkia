@@ -1,18 +1,18 @@
 # 👋 Hi there! I'm Vineet
 
 * 🎓 I'm a Master's student in Computer Software Engineering at San Jose State University in the Bay Area, California.
-* 💼 I am an Ex Software Development Engineer at **Openlink Financial**, a cutting-edge fintech company in the heart of New York City.
+* 💼 I am an Ex Software Development Engineer at **ION Trading**, a cutting-edge fintech company in the heart of New York City.
 * 🏆 Former **Microsoft Student Ambassador** and **Technical Head** at the Technology And Gaming Club, VIT Vellore.
-* 💻 4+ years of battle-tested experience in Core Software Development.
+* 💻 4+ years of battle tested experience in the core Software Development industry.
   - 💠 C++
   - ☕ Core Java
   - 🔷 C#
   - 🟦 TypeScript
   - 🐍 Python
 
-* 🐧 Linux SysAdmin & DevOps Explorer
 * 🕵️‍♂️ Reverse engineering enthusiast
-* 📈 Fintech innovator and aspiring to revolutionize automated HFT systems
+* 🐧 Linux system administration & DevOps, DevSecOps explorer
+* 📈 Fintech innovator and aspiring to revolutionize automated systems
 * 🌟 Passionate about contributing to new ideas, connect with me on LinkedIn
 
 🤝 Let's connect and create something amazing together!
