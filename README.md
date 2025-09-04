@@ -20,7 +20,7 @@
  
 ## :scroll: Certifications
 
-- [Microsoft Student Ambassador - Beta Level](https://studentambassadors.microsoft.com/certificate/8995e659-7865-4812-8533-7c5d7b2fa2f8)
+- [Microsoft Student Ambassador - Beta Level](https://drive.google.com/file/d/1ZjmU-rOg_OxqMhv7al1B8VKQ6CbKvFnK/view)
 - [Parallelism on Intel Architecture](https://www.coursera.org/account/accomplishments/verify/W6L5AWMYBXJB)
 - [Google Cloud Core Infrastructure](https://www.coursera.org/account/accomplishments/records/3M6GK49TTDUR) 
 - [Cybersecurity and Its Ten Domains](https://www.coursera.org/account/accomplishments/verify/PHQKZPG9GRDN) 
