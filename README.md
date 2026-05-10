@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm Vineet
 
 * 🎓 I'm a Master's student in Computer Software Engineering at San Jose State University in the Bay Area, California.
-* 💼 I am an Ex Software Engineer at **ION Trading**, a cutting-edge fintech company in the heart of New York City.
+* 💼 I am a SWE intern at Microsoft Redmond, working on AI and Security systems. Also, I am an Ex Software Engineer at **ION Trading**, a cutting-edge fintech company in the heart of New York City.
 * 🏆 Former **Microsoft Student Ambassador** and **Technical Head** at the Technology and Gaming Club, VIT Vellore.
 * 💻 4 years of experience in the core software development industry.
 
