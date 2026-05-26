@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Vineet
 
-* 💼 SWE Intern at **Microsoft** (HQ: Redmond, WA), working on AI & Security systems. Previously a Software Engineer at **ION Trading**.
+* 💼 SWE Intern at **Microsoft**, Redmond, WA, US on the Security IQ team. Previously SDE at **ION Trading**.
 * 🎓 Master's student in **Computer Software Engineering** at **San Jose State University** (Bay Area, California), specializing in **Distributed Computing**.
 * 🏆 Former **Microsoft Student Ambassador** and **Technical Head** at the TAG Club, **Vellore Institute of Technology, Vellore**.
 * 💻 Passionate about building distributed infrastructure, scalable backend systems, and AI inference pipelines.
